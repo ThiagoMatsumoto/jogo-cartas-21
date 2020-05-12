@@ -16,7 +16,7 @@ No terminal, acesse a pasta que contém o arquivo python e digite o comando 'pyt
 
 ## Pré requisitos
 
-Ter python instalado em sua máquina.
+Ter python 3.7 instalado em sua máquina.
 
 ## Código
 
